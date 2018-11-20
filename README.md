@@ -16,6 +16,3 @@ Someone new to GitHub can use this repository to practice the following skills:
 - Fork projects for personal use
 - Contribute back to projects using a [fork/branch/pull request workflow](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md), aka GitHub Flow
 
-### Use
-Import, **do not fork**, this repository to your host account on GitHub. Use the import
-utilty provided by GitHub at [https://import.github.com](https://import.github.com)
