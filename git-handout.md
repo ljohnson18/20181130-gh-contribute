@@ -215,7 +215,7 @@ Author: Jamene Brooks-Kieffer
 
 Affiliation: University of Kansas Libraries
 
-Link: (add a link to the gh-collab repo)
+Link: [https://github.com/kulibraries/20181130-gh-contribute/blob/master/git-handout.md](https://github.com/kulibraries/20181130-gh-contribute/blob/master/git-handout.md)
 
 License: CC-BY [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
